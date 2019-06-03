@@ -1,0 +1,59 @@
+.LandingPage {
+  text-align: center;
+
+  &__headshot {
+    height: 40vmin;
+    border-radius: 50%;
+    //box-shadow: 0px 0px 20px 1px white;
+  }
+  
+  &__header {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+  
+  &__name {
+    color: #FF4019;
+  }
+
+  &__profession {
+    opacity: 0;
+    animation: LandingPage-profession-fade 1s linear forwards;
+
+    &--developer {
+      animation-delay: 0s;
+    }
+   
+    &--composer {
+      animation-delay: 1s;
+    }
+  
+    &--songwriter {
+      animation-delay: 2s;
+    }
+  }
+}
+
+@keyframes LandingPage-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes LandingPage-profession-fade {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}

@@ -1,0 +1,26 @@
+.FeaturedSection {
+    display: flex;
+    margin: 100px;
+
+    &__text {
+        text-align: center;
+        max-width: 60%;
+    }
+
+    &__title {
+        font-family: 'Quicksand', sans-serif;
+        font-size: 45px;
+    }
+
+    &__description {
+        font-family: 'Quicksand', sans-serif;
+        font-size: 20px;
+    }
+
+    &__images {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-left: 10%;
+    }
+}

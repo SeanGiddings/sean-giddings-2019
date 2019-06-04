@@ -2,6 +2,10 @@
     display: flex;
     margin: 100px;
 
+    &--alignRight {
+        flex-direction: row-reverse;
+    }
+
     &__text {
         text-align: center;
         max-width: 60%;

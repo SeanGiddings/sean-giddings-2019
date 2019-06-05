@@ -8,8 +8,14 @@ class FeaturedSection extends Component {
     super(props);
   }
 
+  createDescription() {
+    const {description} = this.props;
+
+    return {__html: description};
+  }
+
   render() {
-    const {title, description, swapAlignment} = this.props;
+    const {title, description, swapAlignment, image} = this.props;
     const alignment = `FeaturedSection ${swapAlignment ? 'FeaturedSection--alignRight' : 'FeaturedSection--alignLeft'}`;
    
     return (
@@ -18,12 +24,11 @@ class FeaturedSection extends Component {
           <h2 className='FeaturedSection__title'>
             {title}
           </h2>
-          <p className='FeaturedSection__description'>
-            {description}
+          <p dangerouslySetInnerHTML={this.createDescription()} className='FeaturedSection__description'>
           </p>
         </div>
         <div className='FeaturedSection__images'>
-          <img src='https://via.placeholder.com/300'></img>
+          <img className='FeaturedSection__image' src={image}></img>
         </div>
       </div>
     );

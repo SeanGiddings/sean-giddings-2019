@@ -39,6 +39,27 @@
       animation-delay: 2s;
     }
   }
+
+  &__button  {
+    margin-top: 35px;
+    background-color: transparent;
+    border: none;
+    opacity: 0;
+    animation: PageHeader-profession-fade 1s linear forwards;
+    animation-delay: 3s;
+  }
+
+  &__arrow {
+    font-size: 50px;
+    color: #FF4019;
+    transition: transform .3s;
+    cursor: pointer;
+  }
+
+  &__arrow:hover {
+    transform: scale(1.5); 
+  }
+
 }
 
 @keyframes PageHeader-logo-spin {

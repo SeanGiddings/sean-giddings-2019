@@ -24,7 +24,7 @@ class PageHeader extends Component {
               a Songwriter
             </div>  
           </div>
-          <button className='PageHeader__button'></button>
+          <button className='PageHeader__button'> <i className="fa fa-arrow-circle-o-down PageHeader__arrow"></i></button>
         </header>
       </div>
     );

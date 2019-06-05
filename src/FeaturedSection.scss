@@ -1,10 +1,10 @@
 .FeaturedSection {
     display: flex;
-    background-color: #7c828e;
+    background-color:#cdd1d8;
 
     &--alignRight {
         flex-direction: row-reverse;
-        background-color:#9da4b2;
+        background-color:#e8eaed;
     }
 
     &__text {

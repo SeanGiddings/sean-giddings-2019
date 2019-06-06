@@ -16,10 +16,10 @@ class FeaturedSection extends Component {
 
   render() {
     const {title, description, swapAlignment, image} = this.props;
-    const alignment = `FeaturedSection ${swapAlignment ? 'FeaturedSection--alignRight' : 'FeaturedSection--alignLeft'}`;
+    const classes = `FeaturedSection ${swapAlignment ? 'FeaturedSection--alignRight' : 'FeaturedSection--alignLeft'}`;
    
     return (
-      <div className={alignment}>
+      <div className={classes}>
         <div className="FeaturedSection__text">
           <h2 className='FeaturedSection__title'>
             {title}

@@ -1,0 +1,20 @@
+.PageFooter {
+    background-color: #282c34;
+    text-align: center;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+    &__text {
+        font-family: 'Quicksand', sans-serif;
+        color: white;
+        font-size: 18px;
+        margin: 10px;
+    }
+
+    &__copyright {
+        color: #FF4019;
+    }
+}

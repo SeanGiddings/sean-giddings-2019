@@ -1,3 +1,5 @@
+@import './Breakpoints.scss';
+
 .PageFooter {
     background-color: #282c34;
     text-align: center;
@@ -6,6 +8,7 @@
     align-items: center;
     justify-content: center;
     flex-direction: column;
+    z-index: 1000;
 
     &__text {
         font-family: 'Quicksand', sans-serif;

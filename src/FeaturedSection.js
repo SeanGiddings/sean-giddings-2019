@@ -1,12 +1,7 @@
 import React, { Component } from 'react';
-import PortfolioHeadshot from './Portfolio-Headshot.png';
 import './FeaturedSection.scss';
 
 class FeaturedSection extends Component {
-
-  constructor(props) {
-    super(props);
-  }
 
   createDescription() {
     const {description} = this.props;
@@ -15,7 +10,7 @@ class FeaturedSection extends Component {
   }
 
   render() {
-    const {title, description, swapAlignment, image} = this.props;
+    const {title, swapAlignment, image} = this.props;
     const classes = `FeaturedSection ${swapAlignment ? 'FeaturedSection--alignRight' : 'FeaturedSection--alignLeft'}`;
    
     return (
@@ -28,7 +23,7 @@ class FeaturedSection extends Component {
           </p>
         </div>
         <div className='FeaturedSection__images'>
-          <img className='FeaturedSection__image' src={image}></img>
+          <img className='FeaturedSection__image' src={image} alt={title}></img>
         </div>
       </div>
     );

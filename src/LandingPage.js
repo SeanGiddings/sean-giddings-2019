@@ -1,5 +1,4 @@
 import React from 'react';
-import PortfolioHeadshot from './Portfolio-Headshot.png';
 import PageHeader from './PageHeader';
 import FeaturedSection from './FeaturedSection';
 import PageFooter from './PageFooter';

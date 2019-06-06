@@ -4,6 +4,16 @@ import './PageHeader.scss';
 import animateScrollTo from 'animated-scroll-to';
 
 class PageHeader extends Component {
+ 
+  constructor(props) {
+    super(props);
+
+    this.scrollDown = this.scrollDown.bind(this);
+  }
+
+  scrollDown = () => {
+    animateScrollTo(document.querySelector('.FeaturedSection'));
+  }
 
   render() {
     return (
@@ -24,7 +34,7 @@ class PageHeader extends Component {
               a Songwriter
             </div>  
           </div>
-          <button className='PageHeader__button'> <i className="fa fa-arrow-circle-o-down PageHeader__arrow"></i></button>
+          <button onClick={this.scrollDown} className='PageHeader__button'> <i className="fa fa-arrow-circle-o-down PageHeader__arrow"></i></button>
         </header>
       </div>
     );

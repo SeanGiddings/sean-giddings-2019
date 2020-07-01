@@ -8,7 +8,7 @@ class PageFooter extends Component {
     return (
       <div className="PageFooter">
         <div className="PageFooter__text">
-          Sean Giddings <span className="PageFooter__copyright">&copy;2019</span>
+          Sean Giddings <span className="PageFooter__copyright">&copy;2020</span>
         </div>
         <a href='https://www.linkedin.com/in/sean-giddings-350a3213/'>
           <img src={Linkedin} alt="LinkedIn Icon" className='PageFooter__linkedin'></img>

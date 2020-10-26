@@ -25,7 +25,7 @@ class PageHeader extends Component {
           </h1>
           <div className="PageHeader__professions">
             <div className="PageHeader__profession PageHeader__profession--developer">
-              a Web Developer
+              a Developer
             </div>
             <div className="PageHeader__profession PageHeader__profession--composer">
               a Composer

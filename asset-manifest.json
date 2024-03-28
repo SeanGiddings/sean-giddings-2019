@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/sean-giddings-2019/static/css/main.e99fc453.chunk.css",
-    "main.js": "/sean-giddings-2019/static/js/main.c30bac81.chunk.js",
-    "main.js.map": "/sean-giddings-2019/static/js/main.c30bac81.chunk.js.map",
-    "runtime-main.js": "/sean-giddings-2019/static/js/runtime-main.8e542919.js",
-    "runtime-main.js.map": "/sean-giddings-2019/static/js/runtime-main.8e542919.js.map",
-    "static/js/2.866aaac2.chunk.js": "/sean-giddings-2019/static/js/2.866aaac2.chunk.js",
-    "static/js/2.866aaac2.chunk.js.map": "/sean-giddings-2019/static/js/2.866aaac2.chunk.js.map",
-    "index.html": "/sean-giddings-2019/index.html",
-    "precache-manifest.b15a599e242363c2470201a6c3f1deed.js": "/sean-giddings-2019/precache-manifest.b15a599e242363c2470201a6c3f1deed.js",
-    "service-worker.js": "/sean-giddings-2019/service-worker.js",
-    "static/css/main.e99fc453.chunk.css.map": "/sean-giddings-2019/static/css/main.e99fc453.chunk.css.map",
-    "static/js/2.866aaac2.chunk.js.LICENSE.txt": "/sean-giddings-2019/static/js/2.866aaac2.chunk.js.LICENSE.txt",
-    "static/media/Portfolio-Headshot.png": "/sean-giddings-2019/static/media/Portfolio-Headshot.4a602ac9.png",
-    "static/media/Poster-Collage.jpg": "/sean-giddings-2019/static/media/Poster-Collage.58ccb923.jpg",
-    "static/media/automation.png": "/sean-giddings-2019/static/media/automation.26f5e2b8.png",
-    "static/media/castle-escape.gif": "/sean-giddings-2019/static/media/castle-escape.a0561fdf.gif",
-    "static/media/github.png": "/sean-giddings-2019/static/media/github.9e496dbd.png",
-    "static/media/sparrowghost.jpeg": "/sean-giddings-2019/static/media/sparrowghost.892b5742.jpeg",
-    "static/media/webdev.jpg": "/sean-giddings-2019/static/media/webdev.86c7034e.jpg"
+    "main.css": "/static/css/main.e99fc453.chunk.css",
+    "main.js": "/static/js/main.ae8f98e2.chunk.js",
+    "main.js.map": "/static/js/main.ae8f98e2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4310f2d1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4310f2d1.js.map",
+    "static/js/2.866aaac2.chunk.js": "/static/js/2.866aaac2.chunk.js",
+    "static/js/2.866aaac2.chunk.js.map": "/static/js/2.866aaac2.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.c4743b02bdec0d59aefe4542d1ef0045.js": "/precache-manifest.c4743b02bdec0d59aefe4542d1ef0045.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.e99fc453.chunk.css.map": "/static/css/main.e99fc453.chunk.css.map",
+    "static/js/2.866aaac2.chunk.js.LICENSE.txt": "/static/js/2.866aaac2.chunk.js.LICENSE.txt",
+    "static/media/Portfolio-Headshot.png": "/static/media/Portfolio-Headshot.4a602ac9.png",
+    "static/media/Poster-Collage.jpg": "/static/media/Poster-Collage.58ccb923.jpg",
+    "static/media/automation.png": "/static/media/automation.26f5e2b8.png",
+    "static/media/castle-escape.gif": "/static/media/castle-escape.a0561fdf.gif",
+    "static/media/github.png": "/static/media/github.9e496dbd.png",
+    "static/media/sparrowghost.jpeg": "/static/media/sparrowghost.892b5742.jpeg",
+    "static/media/webdev.jpg": "/static/media/webdev.86c7034e.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8e542919.js",
+    "static/js/runtime-main.4310f2d1.js",
     "static/js/2.866aaac2.chunk.js",
     "static/css/main.e99fc453.chunk.css",
-    "static/js/main.c30bac81.chunk.js"
+    "static/js/main.ae8f98e2.chunk.js"
   ]
 }

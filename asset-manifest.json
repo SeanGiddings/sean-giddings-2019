@@ -1,28 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.a5b3372c.chunk.css",
-    "main.js": "/static/js/main.6db83079.chunk.js",
-    "main.js.map": "/static/js/main.6db83079.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.4310f2d1.js",
-    "runtime-main.js.map": "/static/js/runtime-main.4310f2d1.js.map",
-    "static/js/2.0617dc0b.chunk.js": "/static/js/2.0617dc0b.chunk.js",
-    "static/js/2.0617dc0b.chunk.js.map": "/static/js/2.0617dc0b.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.a4f6d15631807c32c10a84d3f11e6e99.js": "/precache-manifest.a4f6d15631807c32c10a84d3f11e6e99.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.a5b3372c.chunk.css.map": "/static/css/main.a5b3372c.chunk.css.map",
-    "static/js/2.0617dc0b.chunk.js.LICENSE.txt": "/static/js/2.0617dc0b.chunk.js.LICENSE.txt",
-    "static/media/Morning-Greys.jpg": "/static/media/Morning-Greys.4cbc9e1c.jpg",
-    "static/media/Portfolio-Headshot.png": "/static/media/Portfolio-Headshot.4a602ac9.png",
-    "static/media/Poster-Collage.jpg": "/static/media/Poster-Collage.58ccb923.jpg",
-    "static/media/castle-escape.gif": "/static/media/castle-escape.a0561fdf.gif",
-    "static/media/github.png": "/static/media/github.9e496dbd.png",
-    "static/media/webdev.jpg": "/static/media/webdev.86c7034e.jpg"
+    "main.css": "/sean-giddings-2019/static/css/main.4d7689c9.chunk.css",
+    "main.js": "/sean-giddings-2019/static/js/main.ae260cf0.chunk.js",
+    "main.js.map": "/sean-giddings-2019/static/js/main.ae260cf0.chunk.js.map",
+    "runtime-main.js": "/sean-giddings-2019/static/js/runtime-main.67d9d74b.js",
+    "runtime-main.js.map": "/sean-giddings-2019/static/js/runtime-main.67d9d74b.js.map",
+    "static/js/2.ad2772fe.chunk.js": "/sean-giddings-2019/static/js/2.ad2772fe.chunk.js",
+    "static/js/2.ad2772fe.chunk.js.map": "/sean-giddings-2019/static/js/2.ad2772fe.chunk.js.map",
+    "index.html": "/sean-giddings-2019/index.html",
+    "precache-manifest.db4c791b4ca92b6e02d7a51352e9e099.js": "/sean-giddings-2019/precache-manifest.db4c791b4ca92b6e02d7a51352e9e099.js",
+    "service-worker.js": "/sean-giddings-2019/service-worker.js",
+    "static/css/main.4d7689c9.chunk.css.map": "/sean-giddings-2019/static/css/main.4d7689c9.chunk.css.map",
+    "static/js/2.ad2772fe.chunk.js.LICENSE.txt": "/sean-giddings-2019/static/js/2.ad2772fe.chunk.js.LICENSE.txt",
+    "static/media/Portfolio-Headshot.png": "/sean-giddings-2019/static/media/Portfolio-Headshot.4a602ac9.png",
+    "static/media/Poster-Collage.jpg": "/sean-giddings-2019/static/media/Poster-Collage.58ccb923.jpg",
+    "static/media/automation.png": "/sean-giddings-2019/static/media/automation.26f5e2b8.png",
+    "static/media/castle-escape.gif": "/sean-giddings-2019/static/media/castle-escape.a0561fdf.gif",
+    "static/media/github.png": "/sean-giddings-2019/static/media/github.9e496dbd.png",
+    "static/media/sparrowghost.jpeg": "/sean-giddings-2019/static/media/sparrowghost.892b5742.jpeg",
+    "static/media/webdev.jpg": "/sean-giddings-2019/static/media/webdev.86c7034e.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4310f2d1.js",
-    "static/js/2.0617dc0b.chunk.js",
-    "static/css/main.a5b3372c.chunk.css",
-    "static/js/main.6db83079.chunk.js"
+    "static/js/runtime-main.67d9d74b.js",
+    "static/js/2.ad2772fe.chunk.js",
+    "static/css/main.4d7689c9.chunk.css",
+    "static/js/main.ae260cf0.chunk.js"
   ]
 }
